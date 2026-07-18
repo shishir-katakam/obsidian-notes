@@ -1,5 +1,1 @@
-# Java
-
-**Unit 1**
-Operators
-After methods
+Gone case lol endi idi
